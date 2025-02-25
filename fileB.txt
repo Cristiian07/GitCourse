@@ -1,1 +1,1 @@
-Added functionality B.
+Adding functionality B.
