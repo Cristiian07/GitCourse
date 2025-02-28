@@ -1,3 +1,0 @@
-Adding functionality A.
-This is a content of fileA.txt
-Quick repair.
